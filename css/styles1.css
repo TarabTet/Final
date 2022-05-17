@@ -1,0 +1,9 @@
+
+.imageGroup div img {
+    width: 30%;
+    float: left;
+    margin: 10px 0;
+    padding: 10px;
+    box-shadow: 3px 4px 7px #888888;
+    background-color: rgba(238, 43, 160, 0.1);
+} 
